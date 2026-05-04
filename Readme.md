@@ -55,7 +55,7 @@ akan-name-generator/
 ### Installation
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/akan-name-generator.git
+git clone https://github.com/Savannah001/AKAN-NAME-GENERATOR-.git
 
 ```
 
