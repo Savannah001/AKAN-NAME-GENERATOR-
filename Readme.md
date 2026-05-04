@@ -164,7 +164,7 @@ GitHub: https://github.com/Savannah001
 
 ### MIT License
 
-##### Copyright (c) 2026 [Your Name]
+##### Copyright 2026 danson
 
 ```bash
 
