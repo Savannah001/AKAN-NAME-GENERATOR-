@@ -42,9 +42,13 @@ The Akan Name Generator is an interactive tool that determines your Akan name ba
 ##  Project Structure
 
 akan-name-generator/
+
 ├── index.html # Main HTML structure
+
 ├── style.css # Styling and animations
+
 ├── script.js # Application logic
+
 └── README.md # Project documentation
 
 
