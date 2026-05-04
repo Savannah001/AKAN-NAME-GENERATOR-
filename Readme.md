@@ -3,7 +3,9 @@
 A beautifully designed web application that generates Akan names based on birth date and gender, celebrating the rich cultural heritage of Ghana.
 
 ## Author Information
+
 **Author:** Danson
+
 **GitHub:** Savannah001
 
 
@@ -149,8 +151,8 @@ Scenario: Gender error clears on selection
 
 ## Contact Information
 
-Email: [your.email@example.com]
-GitHub: https://github.com/yourusername
+Email: dansonk899@gmail.com
+GitHub: https://github.com/Savannah001
 
 
 ## License and Copyright Information
